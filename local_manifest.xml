@@ -4,7 +4,7 @@
         <!-- Sync trees -->
         <project path="device/xiaomi/sweet" name="jash69/device_xiaomi_sweet" remote="github" revision="dot12" />
         <project path="device/xiaomi/sm6150-common" name="jash69/device_xiaomi_sm6150-common-dotOS" remote="github" revision="twelve" />
-        <project path="vendor/xiaomi/sweet" name="PixelOS-Devices/vendor_xiaomi" remote="github" revision="twelve" />
+        <project path="vendor/xiaomi" name="PixelOS-Devices/vendor_xiaomi" remote="github" revision="twelve" />
         <project path="kernel/xiaomi/sm6150" name="PixelOS-Devices/kernel_xiaomi_sm6150" remote="github" revision="courbet-12.1" />
         <project path="prebuilts/clang/host/linux-x86/clang-playground" name="PixelOS-Devices/playgroundtc" remote="gitlab" revision="15" clone-depth="1" />
 
